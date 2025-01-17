@@ -7,8 +7,14 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Reset */
+/* Code added in */
 
+html {
+    scroll-behavior: smooth;
+}
+
+/* Reset */
+/* code provided by the template */
 /* Based on meyerweb.com/eric/tools/css/reset (v2.0 | 20110126 | License: public domain) */
 
 	html, body, div, span, applet, object,
