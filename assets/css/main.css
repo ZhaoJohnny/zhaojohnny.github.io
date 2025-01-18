@@ -9,10 +9,10 @@
 
 /* Code added in */
 
-html {
-    scroll-behavior: smooth;
-}
-
+	html {
+		scroll-behavior: smooth;
+	}
+	
 /* Reset */
 /* code provided by the template */
 /* Based on meyerweb.com/eric/tools/css/reset (v2.0 | 20110126 | License: public domain) */
@@ -3196,6 +3196,8 @@ html {
 		#banner p {
 			font-size: 1.25em;
 			margin-bottom: 1.75em;
+			margin-right: 6.25em;
+			margin-left: 6.25em;
 		}
 
 		#banner input[type="submit"],
